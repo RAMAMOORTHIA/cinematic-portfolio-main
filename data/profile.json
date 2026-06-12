@@ -1,0 +1,209 @@
+{
+  "name": {
+    "first": "Ramamoorthi",
+    "last": "Ayyanar",
+    "full": "Ramamoorthi Ayyanar"
+  },
+  "email": "ramayyanar2000@gmail.com",
+  "tagline": "Building scalable web applications, workflow automation systems, and data-driven dashboards.",
+  "description": "Software Developer specializing in Laravel, PHP, MySQL, and modern web technologies. Experienced in developing enterprise applications, E-Ticketing Systems, dashboard analytics, WhatsApp API integrations, and digital platform management for educational and healthcare institutions.",
+
+"roles": {
+"short": "Software Developer",
+"detailed": "Laravel Developer · PHP Developer · Dashboard Analytics"
+},
+  "location": {
+    "based": "India",
+    "availability": "Worldwide"
+  },
+  "available": true,
+  "bio": "Software Developer specializing in PHP, Laravel, React JS, JavaScript, MySQL, AJAX, jQuery, Bootstrap, REST APIs, and WordPress. Experienced in developing enterprise web applications, ticket management systems, dynamic dashboards, database-driven solutions, and responsive websites. Strong understanding of full-stack development, application maintenance, performance optimization, and software deployment.",
+  "stats": [
+  { "value": "2+", "label": "Years Experience" },
+  { "value": "1",  "label": "Enterprise Project" },
+  { "value": "Laravel + React", "label": "Tech Stack" }
+],
+  "skills": [
+    "Full Stack Developer",
+  "Laravel Developer",
+  "PHP Developer",
+  "React JS Developer",
+  "Problem Solver",
+  "Dashboard Builder",
+  "API Developer",
+  "MySQL Expert",
+  "JavaScript Developer",
+  "AJAX Specialist",
+  "UI/UX Enthusiast",
+  "Ticketing System Expert"
+  ],
+  "experience": [
+{
+"id": 1,
+"role": "IT Trainee",
+"company": "Vinayaka Mission's Research Foundation",
+"companyShort": "VMRF",
+"type": "Full-time",
+"location": "Chennai, India",
+"period": "Apr 2024",
+"periodEnd": "Oct 2024",
+"bullets": [
+"Assisted in developing and maintaining PHP and Laravel-based web applications.",
+"Worked with MySQL databases, application testing, debugging, and deployment support.",
+"Collaborated with senior developers to implement software enhancements and bug fixes."
+],
+"desc": "Contributed to web application development, database management, testing, and deployment activities while gaining hands-on experience in Laravel and PHP development.",
+"tech": [
+"PHP",
+"Laravel",
+"MySQL",
+"JavaScript",
+"HTML",
+"CSS",
+"Bootstrap"
+]
+},
+{
+"id": 2,
+"role": "IT Trainee",
+"company": "Aarupadai Veedu Medical College & Hospital",
+"companyShort": "AVMC",
+"type": "Full-time",
+"location": "Puducherry, India",
+"period": "Nov 2024",
+"periodEnd": "Jul 2025",
+"bullets": [
+"Developed modules and enhancements for institutional web applications using Laravel and MySQL.",
+"Built responsive user interfaces and implemented AJAX-based functionality.",
+"Supported API integrations, software testing, and production deployments."
+],
+"desc": "Worked on application enhancement, database optimization, frontend development, and deployment activities for institutional software systems.",
+"tech": [
+"Laravel",
+"PHP",
+"MySQL",
+"AJAX",
+"Bootstrap",
+"JavaScript"
+]
+},
+{
+"id": 3,
+"role": "Software Developer",
+"company": "Aarupadai Veedu Medical College & Hospital",
+"companyShort": "AVMC",
+"type": "Full-time",
+"location": "Puducherry, India",
+"period": "Aug 2025",
+"periodEnd": "Present",
+"bullets": [
+"Designed and developed a complete E-Ticketing Management System with role-based access control and workflow automation.",
+"Built real-time dashboard analytics using ApexCharts, improving operational visibility and reporting.",
+"Integrated WhatsApp notification services and email automation for ticket assignments and status updates.",
+"Developed REST APIs, optimized database performance, and maintained production applications.",
+"Managed institutional websites, LinkedIn pages, Facebook campaigns, and post boosting initiatives."
+],
+"desc": "Developing enterprise web applications, dashboard reporting systems, WhatsApp integrations, REST APIs, and digital marketing solutions while supporting institutional software operations.",
+"tech": [
+"Laravel",
+"PHP",
+"MySQL",
+"JavaScript",
+"AJAX",
+"ApexCharts",
+"REST API",
+"WhatsApp API",
+"WordPress",
+"Git",
+"Cloudways"
+]
+}
+],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Ticketing Management System",
+      "subtitle": "Enterprise Service Request & Workflow Automation Platform",
+      "type": "Web Application",
+      "link": "https://staging.ticket.avmc.edu.in/",
+      "image": "/assets/project-artgenio.png",
+            "tech": [
+"Laravel",
+"PHP",
+"MySQL",
+"AJAX",
+"Bootstrap",
+"JavaScript",
+"ApexCharts"
+],
+    "desc": "Developed a complete E-Ticketing Management System for managing service requests, ticket assignments, approvals, escalations, and status tracking. Implemented role-based access control, dashboard analytics, automated workflows, and real-time reporting to streamline institutional operations and improve efficiency."
+    },
+    {
+      "id": 2,
+      "title": "Dashboard Analytics & WhatsApp Integration",
+      "subtitle": "Real-Time Reporting & Automated Notification System",
+      "type": "Enterprise Solution",
+      "link": "https://staging.ticket.avmc.edu.in/",
+      "image": "/assets/project-easyfolioL.png",
+      "tech": [
+"Laravel",
+"MySQL",
+"ApexCharts",
+"WhatsApp API",
+"REST API",
+"AJAX",
+"Bootstrap"
+],
+     "desc": "Built interactive dashboard analytics with dynamic charts, department-wise reporting, and real-time data visualization. Integrated WhatsApp notification services and email automation for ticket assignments, status updates, and user communications, improving response time and operational visibility."
+    }
+  ],
+  "publications": [
+{
+"id": 1,
+"title": "Promoted from IT Trainee to Software Developer",
+"platform": "VMRF",
+"year": "2025",
+"link": "",
+"desc": "Recognized for technical contributions and promoted from IT Trainee to Software Developer within Vinayaka Mission's Research Foundation, demonstrating strong performance in software development and project delivery."
+},
+{
+"id": 2,
+"title": "Developed Enterprise E-Ticketing Management System",
+"platform": "AVMC & VMRF",
+"year": "2025",
+"link": "",
+"desc": "Designed and implemented a complete E-Ticketing Management System with ticket lifecycle management, role-based access control, workflow automation, approvals, and dashboard reporting."
+},
+{
+"id": 3,
+"title": "Implemented WhatsApp Notification Integration",
+"platform": "Institutional Applications",
+"year": "2025",
+"link": "",
+"desc": "Successfully integrated WhatsApp API services to automate ticket assignment notifications, status updates, and user communications, improving response times and operational efficiency."
+},
+{
+"id": 4,
+"title": "Built Real-Time Dashboard Analytics System",
+"platform": "AVMC & VMRF",
+"year": "2026",
+"link": "",
+"desc": "Developed interactive dashboards using Laravel, MySQL, AJAX, and ApexCharts to provide real-time reporting, ticket analytics, and department-wise performance monitoring."
+},
+{
+"id": 5,
+"title": "Managed Digital Campaigns & Social Media Growth",
+"platform": "AVMC",
+"year": "2025-2026",
+"link": "",
+"desc": "Managed Facebook, LinkedIn, Instagram, and YouTube platforms, executed post boosting campaigns, promoted admissions and institutional events, and increased audience engagement through targeted digital marketing strategies."
+}
+],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/RAMAMOORTHIA" },
+  
+    { "label": "Instagram", "href": "https://www.instagram.com/ram_ayyanar_/" }
+    
+  ]
+}

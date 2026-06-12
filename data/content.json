@@ -1,0 +1,38 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "web applications",
+    "freelanceNote": "Available for freelance, full-time opportunities, and collaborations.",
+    "availableLabel": "Available for work",
+    "pills": [
+      "Laravel Developer",
+      "React Developer",
+      "PHP Developer",
+      "Dashboard Analytics"
+    ],
+    "specialistStat": {
+      "value": "Full Stack",
+      "label": "Developer"
+    }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": [
+      "2+\nYears Experience",
+      "1\nMajor Project",
+      "Laravel + React\nDeveloper"
+    ]
+  },
+  "footer": {
+    "eyebrow": "Available for collaborations",
+    "ctaLines": [
+      "Building scalable",
+      "web applications",
+      "and digital solutions"
+    ],
+    "ctaAccent": "efficiently."
+  }
+}
